@@ -6,7 +6,7 @@
 
 .cabecalho,
 .cards {
-  margin: 0 20px;
+  margin: 20px;
 }
 
 .cabecalho {
@@ -33,13 +33,29 @@
   overflow: hidden;
 }
 
-.banner video {
+video {
   width: 100%;
+}
+
+.carousel-item {
+  height: 500px;
+}
+
+#sobre {
+  margin: 50px 0;
+}
+
+#sobre h1 {
+  color: darkcyan;
+}
+
+#sobre p {
+  font-size: 20px;
 }
 
 .cards {
   padding: 40px 0;
-  gap: 10px 0;
+  gap: 20px 0;
 }
 
 .card {
