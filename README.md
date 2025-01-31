@@ -1,11 +1,13 @@
 # Portfólio Vinicius Lima
-Este projeto é um portfólio simples feito em html baseado para fins de aprendizado proposto pelo professor João Ferreira do Curso de Desenvolvimento Full Stack da Treina Recife.
+Este projeto é um portfólio simples feito em html utilizando Bootstrap para fins de aprendizado proposto pelo professor João Ferreira do Curso de Desenvolvimento Full Stack da Treina Recife.
 
 
 ## 🛠️ Construído com
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 ## ✒️ Autores
 
