@@ -22,7 +22,7 @@ Este projeto está sob a licença [Creative Commons Attribution 4.0 Internationa
 
 [![Portfólio](https://img.shields.io/badge/-Portfólio-30A3DC?style=for-the-badge)](https://vinimateuslima.github.io/portfolio-vinicius-lima)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:viniciusmateus.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vinicius-mateus-924807181/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vinicius-lima-924807181/)
 
 ## 🛠 Habilidades
 
@@ -34,5 +34,5 @@ Este projeto está sob a licença [Creative Commons Attribution 4.0 Internationa
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
 ## 🔗 Vamos trabalhar juntos?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vinicius-mateus-924807181/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vinicius-lima-924807181/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/viniciuslimadev/)
